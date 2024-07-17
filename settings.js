@@ -8,19 +8,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
-global.ytname = "YT: phantom-hacks01"
+global.ownernomer = "923079372028"
+global.ownername = "*ALONE-BOY"
+global.ytname = "YT: Masoom BhaBha"
 global.socialm = ""
-global.location = "India, Mizoram, Aizawl"
+global.location = "Pakistan, Bahawalnagr "
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
+global.ownernumber = '923095230282'  //creator number
+global.ownername = 'AHMED BHABHA' //owner name
 global.botname = 'xbug bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.packname = '☆➢احᷟـــᷧــمͥــد࿐♚︎☆'
+global.author = '03095230282'
 
 //console view/theme
 global.themeemoji = '😡'
